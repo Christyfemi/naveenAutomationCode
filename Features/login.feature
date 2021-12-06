@@ -22,4 +22,3 @@ Feature: feature to test login functionality
 
 
 
-#Just practise
